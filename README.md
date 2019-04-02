@@ -28,4 +28,5 @@ Git command practice
 博大精深
 深情厚意
 意在剑先
+先入为主
 ```
