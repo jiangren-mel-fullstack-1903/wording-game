@@ -34,6 +34,7 @@ Git command practice
 主观臆断
 断断续续
 续命良药
-药药切克
 >>>>>>> 97399eb82f21b204313f45b2addb64797ad5a7fb
+=======
+>>>>>>> bafe197ac7d40cf2fc9a928d0796bdb3c00e2a3b
 ```
