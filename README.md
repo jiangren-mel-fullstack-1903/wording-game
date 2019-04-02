@@ -30,4 +30,5 @@ Git command practice
 意在剑先
 先入为主
 主观臆断
+断断续续
 ```
