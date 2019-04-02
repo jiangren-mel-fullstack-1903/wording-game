@@ -22,4 +22,5 @@ Git command practice
 跃跃欲试
 试才录用
 用人不疑
+疑人不用
 ```
