@@ -34,5 +34,4 @@ Git command practice
 主观臆断
 断断续续
 续命良药
-testingg
-药到病除
+药到病除:
