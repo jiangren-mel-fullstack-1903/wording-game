@@ -36,3 +36,4 @@ Git command practice
 续命良药
 药到病除
 除旧布新
+新仇旧怨
