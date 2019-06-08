@@ -37,3 +37,5 @@ Git command practice
 药到病除
 除旧布新
 新仇旧怨
+怨天尤人
+人声鼎沸
