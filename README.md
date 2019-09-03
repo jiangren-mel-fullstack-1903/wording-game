@@ -37,3 +37,5 @@ Git command practice
 药到病除：
 除暴安良
 良心发现
+现在以后
+后来居上
