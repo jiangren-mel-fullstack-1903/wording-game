@@ -36,3 +36,4 @@ Git command practice
 续命良药
 药到病除：
 除暴安良
+良心发现
